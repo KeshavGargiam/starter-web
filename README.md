@@ -24,4 +24,4 @@ hello world
 
 ### copyright
 
-2023 keshav
+2023 keshav all rights reserved
