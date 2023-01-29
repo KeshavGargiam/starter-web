@@ -18,3 +18,7 @@ adding some more sample text
 ## How to contribute
 
 some more sample text
+
+### copyright
+
+2023 keshav
